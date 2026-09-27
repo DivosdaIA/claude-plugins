@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "divos-da-ia",
+  "description": "Plugins do Claude Code da Divos da IA.",
+  "owner": {
+    "name": "Divos da IA"
+  },
+  "plugins": [
+    {
+      "name": "go-viral-diva",
+      "description": "Crie pautas, ângulos, roteiros e legendas virais em português.",
+      "source": {
+        "source": "github",
+        "repo": "DivosdaIA/go-viral-diva"
+      },
+      "category": "productivity",
+      "author": {
+        "name": "Divos da IA"
+      }
+    }
+  ]
+}
